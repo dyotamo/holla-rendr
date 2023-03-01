@@ -1,4 +1,4 @@
-from main import root
+from main.main import root
 
 
 def test_root():
